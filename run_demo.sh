@@ -1,0 +1,1 @@
+python demos/demo_fit_body.py --saveObj True --rasterizer_type=pytorch3d

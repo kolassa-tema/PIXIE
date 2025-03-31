@@ -45,7 +45,6 @@ build
 # pixie data
 ###
 *.obj
-*.yaml
 *.pkl
 *.npy
 # data
